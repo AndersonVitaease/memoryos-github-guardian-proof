@@ -44,3 +44,8 @@ npm test
 
 - `TYPECHECK=PASS`
 - `TESTS=PASS`
+
+## GH-00 Live Proof Fixture
+
+This branch exists only as a harmless Pull Request fixture
+for the governed GitHub merge proof.
