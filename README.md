@@ -44,3 +44,12 @@ npm test
 
 - `TYPECHECK=PASS`
 - `TESTS=PASS`
+
+## GH-00 Live Proof Fixture
+
+This branch exists only as a harmless Pull Request fixture
+for the governed GitHub merge proof.
+
+Snapshot invalidation fixture: this commit deliberately changes the
+Pull Request head SHA so a previously approved snapshot fingerprint
+no longer matches the current state (GH-00 invalidation proof).
