@@ -113,3 +113,4 @@ GitHub API
 - [Guardian Core](https://github.com/AndersonVitaease/memoryos-guardian-core) — experimental domain-agnostic Safe Execution Core (bind → gate → apply, fail-closed).
 - [VPS Guardian](https://github.com/AndersonVitaease/memoryos-vps-guardian-pro) — governed VPS/Dokploy application redeploy with supervised rollback evidence.
 - [Filesystem Guardian](https://github.com/AndersonVitaease/memoryos-filesystem-guardian-proof) — stale-state-safe file changes with bounded filesystem authority and read-back verification.
+- [Email Guardian](https://github.com/AndersonVitaease/memoryos-email-guardian-proof) — bounded outbound email execution with stale-state protection, same-instance keyed duplicate suppression and evidence-based outcomes.
